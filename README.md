@@ -2,6 +2,9 @@
 # Track Your Budget 
 ## Description
 
+![image](https://user-images.githubusercontent.com/54038283/178431355-cc57e88f-d451-4b5c-9ebd-4fdd903a26a6.png)
+
+
 Use this application to add earnings and expenses to a simple spreadsheet. 
 
 ## Table of Contents
