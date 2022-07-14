@@ -24,7 +24,7 @@ https://kimball-budget-tracker.herokuapp.com/
 
 In the application, click on the "Install" button on the right side of your address bar. With an internet connection, you can access the app directly from your desktop.
 
-## Usage-Instructions
+## Usage Instructions
 
 Name your transaction, how much it was, and select whether it was an earning or an expense.
 
@@ -37,7 +37,7 @@ https://opensource.org/licenses/MIT
 
 Christopher Kimball
 
-## Test-Instructions
+## Test Instructions
   To test, please navigate to the directory and run the Try it out yourself! command.
 
 ## Contact
